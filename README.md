@@ -4,7 +4,8 @@ this is a yolov3 model that can detecting red-blood-cell
 # Introduction
 A Keras implementation of YOLOv3 (Tensorflow backend) inspired by https://github.com/qqwweee/keras-yolo3
 ## final results
-
+![image text](https://github.com/herrkun/YOLOV3-detecting-red-blood-cell/blob/master/yolov3_detecting_redcell/result1.PNG
+)
 
 # how to start  
 ## (1) just test model using pretrained weight  
